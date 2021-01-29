@@ -9,7 +9,7 @@ sap.ui.define([
 
 		return Controller.extend("training.bi.UI5Module.controller.Main", {
 			onInit: function () {
-
+                debugger;
             },
             
             handleItemPress: function(oEvent){
